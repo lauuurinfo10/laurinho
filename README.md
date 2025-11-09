@@ -9,7 +9,7 @@ A **second-year Computer Science student** at **Universitatea Transilvania Braș
 
 My journey is rooted in **foundational programming**, but I'm always looking to expand my horizons.
 
-* 💻 I currently have strong knowledge in **C++** and am actively working to expand my skills in **C#**, **Python**, and **Java**.
+* 💻 I currently have strong knowledge in **C++** and i am actively working to expand my skills in **C#**, **Python**, and **Java**.
 * 🌱 I thrive on learning new concepts and believe in **continuous growth**. I'm always open to tackling challenges and acquiring new skills, day by day.
 * 💡 I aim to become a skilled professional in this field, focused on creating quality work while enjoying the process and every moment life offers.
 
