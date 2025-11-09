@@ -1,1 +1,24 @@
 # laurinho
+##  Hi! I'm Laur.
+
+A **second-year Computer Science student** at **Universitatea Transilvania Brașov** in Romania, passionate about technology and constantly exploring new things.
+
+---
+
+## 🚀 My Current Focus & Growth
+
+My journey is rooted in **foundational programming**, but I'm always looking to expand my horizons.
+
+* 💻 I currently have strong knowledge in **C++** and am actively working to expand my skills in **C#**, **Python**, and **Java**.
+* 🌱 I thrive on learning new concepts and believe in **continuous growth**. I'm always open to tackling challenges and acquiring new skills, day by day.
+* 💡 I aim to become a skilled professional in this field, focused on creating quality work while enjoying the process and every moment life offers.
+
+
+## 🌲 Outside of Code
+
+I believe in balance and movement!
+
+* 🤸 When I step away from the keyboard, I'm usually **doing sport** and staying active—it's essential for both my physical and mental energy.
+* ⛰️ You'll often find me outdoors, going on **walks and hikes**, enjoying nature, and admiring the creation around us.
+
+
