@@ -16,9 +16,9 @@ My journey is rooted in **foundational programming**, but I'm always looking to 
 
 ## 🌲 Outside of Code
 
-I believe in balance and movement!
+I strongly believe in the power of **balance and movement** to recharge and focus.
 
-* 🤸 When I step away from the keyboard, I'm usually **doing sport** and staying active—it's essential for both my physical and mental energy.
-* ⛰️ You'll often find me outdoors, going on **walks and hikes**, enjoying nature, and admiring the creation around us.
+* 🤸 Beside the screen, I'm usually **doing sport** and staying active—it's essential for both my physical and mental energy.
+* ⛰️ I love going on **walks and hikes**, enjoying nature, and admiring the creation around us.
 
 
