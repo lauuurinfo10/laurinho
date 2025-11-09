@@ -1,4 +1,4 @@
-# laurinho
+
 ##  Hi! I'm Laur.
 
 A **second-year Computer Science student** at **Universitatea Transilvania Brașov** in Romania, passionate about technology and constantly exploring new things.
